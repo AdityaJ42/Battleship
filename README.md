@@ -8,8 +8,8 @@ Age: Old enough to know to use a PC and follow commands.
 
 
 ### After a few tries
-
-
+![screenshot 4](https://user-images.githubusercontent.com/32266008/30813262-96231670-a22a-11e7-9d13-925540cc8832.png)
 
 
 ### When you finally win
+![screenshot 6](https://user-images.githubusercontent.com/32266008/30813340-cda60918-a22a-11e7-9c61-5f26358f57a3.png)
